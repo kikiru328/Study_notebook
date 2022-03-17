@@ -1,2 +1,0 @@
-url = 'AA'
-css_selector = '.tit > a::text'
