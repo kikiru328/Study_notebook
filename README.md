@@ -1,2 +1,1 @@
-# Programmers
-프로그래머스 공부
+# Practice_code no2.
